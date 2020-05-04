@@ -1,5 +1,5 @@
 # Motivation
-This project is answering the requirement of Data Scientist Nanodegree of Udacity to share my data understanding on GitHub and Medium.
+This project is following the requirement of Data Scientist Nanodegree of Udacity to share my data understanding on GitHub and Medium.
 I pick the Seattle Airbnb open dataset from Kaggle, seeking to provide some insight of Seattle Airbnb market for who are potential visitors to Seattle or local hosts in Seattle.
 
 In this project, I will answer six bussiness related questions on Seattle Airbnb market, from both potential visitor and local host perspectives:
