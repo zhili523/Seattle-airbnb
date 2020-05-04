@@ -24,7 +24,7 @@ From Airbnb providers view:
 3. To enable the associations function to analyze the correlation between categorical and continuous variables, you will need to install dython package.
 
 # The Description of Files
-1. seattle.ipynb — dataset includes the written code for data analysis
+1. seattle_airbnb.ipynb — dataset includes the written code for data analysis
 2. calendar.csv — dataset includes availability and price of listings from 2016/01/04 to 2017/01/02
 3. listings.csv — dataset includes each listings informations, such as location, price, number of reviews and so on
 4. reviews.csv — dataset includes over 80k reviews written by guests between 2009 and 2016
