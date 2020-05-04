@@ -50,6 +50,6 @@ you will be able to earn your own place in the market if you can out-perform oth
 
 # Credit and Reference
 
-1.	A Complete Exploratory Data Analysis and Visualization for Text Data - Susan Li
-2.	The Search for Categorical Correlation – Shaked Zychlinski
-3.	Data Visualization of Uber Rides with Tableau – Vanessa Leung
+1.	[A Complete Exploratory Data Analysis and Visualization for Text Data - Susan Li](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a)
+2.	[The Search for Categorical Correlation – Shaked Zychlinski](https://towardsdatascience.com/the-search-for-categorical-correlation-a1cf7f1888c9)
+3.	[Data Visualization of Uber Rides with Tableau – Vanessa Leung](https://towardsdatascience.com/data-visualization-of-uber-rides-with-tableau-67988f61f712)
