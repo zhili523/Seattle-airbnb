@@ -16,7 +16,7 @@ From Airbnb providers view:
 2. *What can host do to improve their review rating score?
 3. *For whoever is considering becoming an Airbnb host in Seattle, how competitive are they in this market by comparing with other experienced hosts?
 
-(Medium post only cover four questions with * marked for better representation)
+([Medium post](https://medium.com/@wenzhili523/airbnb-market-in-seattle-a-closer-look-from-the-perspectives-of-host-and-visitor-89b179cde17) only cover four questions with * marked for better representation)
 
 # Required Libaries
 1. This project was written by Python, using Jupyter Notebook, including common packages: pandas, numpy, matplotlib, seaborn, calendar, datetime, sklearn.
